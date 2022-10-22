@@ -68,7 +68,7 @@ function Header(props) {
         <div className="menu">
           <div className="top-info">
             Framestack is now open source ✨ —{" "}
-            <a target="_blank" rel="noreferrer" href="https://github.com/swve/framestack">
+            <a target="_blank" rel="noreferrer" href="https://github.com/uvacoder/framestack">
               GitHub Repository
             </a>
           </div>
