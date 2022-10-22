@@ -4,7 +4,7 @@ const HeroLinks = (props) => (
     <h1>{props.title}</h1>
     <div className="add_data_github">
       <a
-        href="https://github.com/swve/framestack/blob/main/CONTRIBUTING.md"
+        href="https://github.com/uvacoder/framestack/blob/main/CONTRIBUTING.md"
         target="_blank"
         rel="noopener noreferrer"
       >
